@@ -1,5 +1,5 @@
 <img src='http://www.fispl.in/image/about1.gif'  alt='dev'>
-<h1 align="center">Hi 👋, I'm ERMICH Reda</h1>
+<h1 align="center">Hi 👋, I'm ER. Reda</h1>
 <h3 align="center">I'm a full stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermix3&label=Profile%20views&color=0e75b6&style=flat" alt="ermix3" /> </p>
@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/re_ermix" target="_blank"><img src="https://img.shields.io/twitter/follow/re_ermix?logo=twitter&style=for-the-badge" alt="re_ermix" /></a> </p>
 
-- 🔭 I’m currently working on <a href="https://github.com/ermix3/100daysOfJavascript" target="_blank">100daysOfJavascript</a>
+- 🔭 I’m currently working on <a href="https://github.com/ermix3/Exercism-javascript" target="_blank">Exercice Javascript</a> ^^ <a href="https://github.com/ermix3/Exercism-php" target="_blank">Exercice Php</a>
 
 - 🌱 I’m currently learning **Laravel framework**
 
@@ -29,10 +29,6 @@
 
 - ⚡ Fun fact **.**
 
-### 📝  Blogs posts
----
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 ### 💼 Connect with me:
 ---
 <p align="left">

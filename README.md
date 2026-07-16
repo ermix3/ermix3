@@ -1,5 +1,5 @@
 <img src='http://www.fispl.in/image/about1.gif'  alt='dev'>
-<h1 align="center">Hi 👋, I'm ER. Reda</h1>
+<h1 align="center">Hi 👋, I'm ERMICH Reda</h1>
 <h3 align="center">I'm a full stack Web Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ermix3&label=Profile%20views&color=0e75b6&style=flat" alt="ermix3" /> </p>

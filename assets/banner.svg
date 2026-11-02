@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+  <title id="title">Reda Ermich — Full-stack Developer</title>
+  <desc id="desc">Java, Spring Boot, React, and TypeScript. Based in Morocco.</desc>
+  <defs>
+    <linearGradient id="background" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0B1224"/>
+      <stop offset="1" stop-color="#132F3B"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#5EEAD4" stroke-opacity="0.06"/>
+    </pattern>
+  </defs>
+  <rect width="1200" height="320" rx="20" fill="url(#background)"/>
+  <rect width="1200" height="320" rx="20" fill="url(#grid)"/>
+  <path d="M64 61H120" stroke="#5EEAD4" stroke-width="5" stroke-linecap="round"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="139" font-size="54" font-weight="700" fill="#F8FAFC">Reda Ermich</text>
+    <text x="66" y="184" font-size="26" fill="#5EEAD4">Full-stack Developer</text>
+    <text x="66" y="231" font-size="21" fill="#CBD5E1">Java · Spring Boot · React · TypeScript</text>
+    <text x="66" y="273" font-size="16" fill="#94A3B8">MOROCCO / ermix.ma</text>
+    <text x="902" y="178" font-size="78" font-family="monospace" fill="#5EEAD4" opacity="0.6">&lt;/&gt;</text>
+  </g>
+  <path d="M836 83H1100M836 237H1100" stroke="#5EEAD4" stroke-opacity="0.15"/>
+</svg>
